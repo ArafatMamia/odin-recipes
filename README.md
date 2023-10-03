@@ -1,4 +1,4 @@
-#I'm talking full stack developement from OdinProject
+# I'm talking full stack developement from OdinProject
 
 <!--  -->
 
