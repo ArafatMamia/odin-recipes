@@ -10,6 +10,6 @@
 
 ## ** email: arafmamia@gmail.com**
 
-[^1] _ all description taken from_
+### all description taken from
 
-> https://www.allrecipes.com/
+> "https://www.allrecipes.com/"
