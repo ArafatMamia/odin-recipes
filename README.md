@@ -8,7 +8,6 @@
 
 ---
 
-## ** email: arafmamia@gmail.com**
+## ** email: arafmamia@gmail.com **
 
-### all description taken from
-"https://www.allrecipes.com/"
+### all description taken from https://www.allrecipes.com/
